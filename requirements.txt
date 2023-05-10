@@ -8,6 +8,7 @@ uvicorn
 python-multipart
 pillow
 tensorflow-serving-api
+catboost
 
 
 #-e 
