@@ -9,6 +9,7 @@ python-multipart
 pillow
 tensorflow-serving-api
 catboost
+h5py
 
 
 #-e 
